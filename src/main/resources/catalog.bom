@@ -1,0 +1,7 @@
+brooklyn.catalog:
+    version: "0.1.0-SNAPSHOT"
+    itemType: entity
+    items:
+    - id: com.acme.MySample
+      item:
+        type: com.acme.MySample
